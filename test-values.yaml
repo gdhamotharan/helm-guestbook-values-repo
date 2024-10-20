@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
-
+namesp: argo-test-dep
 image:
   repository: gcr.io/heptio-images/ks-guestbook-demo
   tag: 0.1
